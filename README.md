@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+<title>Proyecto #1</title>
 </head>
 
 <body>
@@ -45,7 +45,10 @@
 <h1>Github Link:</h1>
 <a href=”https://github.com/Carmen1997/arcade”> Link Github </a>
 
-<img src=”C:/Users/atzir/OneDrive/Documentos/TEC/7mo/programación 2/arcade1.jpg>
+<h1>Sketch del Arcade:</h1>
+
+
+<img src=”C:/Users/atzir/OneDrive/Documentos/TEC/7mo/programación 2/arcade1.jpg”>
 
 
 
