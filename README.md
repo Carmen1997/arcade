@@ -1,8 +1,8 @@
-# arcade
+# Arcade
 <!DOCTYPE html>
 <html>
 <head>
-<title>Proyecto #1</title>
+
 </head>
 
 <body>
