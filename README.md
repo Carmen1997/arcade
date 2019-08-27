@@ -37,7 +37,7 @@
 
 
 
-<h1>Plan de Implementación: </1>
+<h1>Plan de Implementación: </h1>
 <p>Se planea hacer un juego de Arcade, mediante el cual se exponga y se haga conciencia de los mensajes de odio, racismo, inequidad, etc. que prevalecen hoy en día en los discursos de políticos, programas de televisión, entrevistas, debates, y demás, a los cuales estamos expuestos todo el tiempo, y los cuales no escuchamos con detenimiento, causando así que este tipo de diálogos no sean cuestionados y pensemos que son normales. </p>
 
 <p>En el juego se planea utilizar imágenes, las cuales están asociadas con el “personaje” que hizo el comentario o dijo la frase, las cuales serán variadas, y vendrán de todo tipo de contextos. La persona decidirá si “golpear” al personaje o no, basándose en lo que escuche y como se sienta al respecto. Las pelotas caerán y las podrás volver a agarrar conforme vaya progresando el juego.</p>
@@ -45,13 +45,12 @@
 <h1>Github Link:</h1>
 <a href=”https://github.com/Carmen1997/arcade”> Link Github </a>
 
-<img src=”
+<img src=”C:/Users/atzir/OneDrive/Documentos/TEC/7mo/programación 2/arcade1.jpg>
 
 
 
 </body>
 
 </html>
-
 
 
