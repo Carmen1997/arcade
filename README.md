@@ -53,7 +53,6 @@
 <img src=”fotoarcade.jpg”>
 
 
-
 </body>
 
 </html>
