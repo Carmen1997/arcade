@@ -31,7 +31,7 @@
 <li>¿Podemos reconocer entre lo que está bien o mal?</li>
 <li>¿Sabemos reconocer los mensajes?</li>
 <li>¿De qué manera nos afectan los comentarios públicos?</li>
-<li>¿Qué ideologías y discursos de odio apoyamos o toleramos?</li>
+<li>¿Qué ideologías y discursos de odio apoyamos o toleramos.?</li>
 
 </ul>
 
