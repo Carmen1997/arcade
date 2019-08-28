@@ -50,7 +50,7 @@
 
 <img src=”C:/Users/atzir/OneDrive/Documentos/TEC/7mo/programación 2/arcade1.jpg”>
 
-<img src=”fotoarcade.jpg”>
+<a href="#">< img src=”fotoarcade.jpg”></a>
 
 
 </body>
