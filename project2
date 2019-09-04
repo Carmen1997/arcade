@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		h1	{
+			color: blue;
+			font-size: 32px;
+		}
+		ul	{
+			background-color: #ECECEC;
+			border-color: blue;
+			border-width: 3px;
+			border-style: dotted;
+			font-size: 18px;
+			
+		}
+li
+{
+padding: 10px;
+}
+p	{
+font-size: 18px;
+}	
+	</style>
+</head>
+<body>
+
+
+<h1 class=”title”> Define problem in a sentence</h1>
+<h2> Las personas no están conscientes de los discursos de odio que apoyan y que escuchan en los medios </h2>
+
+<h1> Research for your 5w </h1>
+	<ul>
+<li>What: ¿Qué ideologías dañinas aparecen en los medios? </li>
+<li>Who: ¿Quiénes propagan estas ideologías? </li>
+<li>Where: ¿Dónde escuchamos discursos de odio? </li>
+<li>Why: ¿Por qué este tipo de discursos siguen siendo prevalentes? </li>
+<li>When: ¿Cuándo se utilizan? </li>
+<li>How: ¿Cómo podemos identificar estos discursos? </li>
+	</ul>
+
+<h1 class=”title”>Write “common” questions about your problem </h1>
+	<ul >
+<li>¿Qué es discurso? </li>
+<li>¿Qué es ideología? </li>
+<li>¿Qué es una figura pública?</li>
+<li>¿Qué es racismo? </li>
+<li>¿Qué es misoginia? </li>
+<li>¿Qué es xenofobia? </li>
+<li>¿Qué es capacitismo? </li>
+<li>¿Qué es el sexismo? </li>
+<li>¿Qué es machismo? </li>
+<li>¿Qué es homofobia? </li>
+<li>¿Qué es queerfobia? </li>
+<li>¿Qué es transfobia? </li>
+<li>¿Qué es el clasismo? </li>
+<li>¿Cuáles son las causas de la discriminación? </li>
+<li>¿Qué es la discriminación por maternidad? </li>
+<li>¿Qué es la discriminación por religión? </li>
+<li>¿Qué es la discriminación por ideología política? </li>
+	</ul>
+
+<h1> Write the answers </h1>
+	<ul>
+<li>Un discurso se refiere a cómo se usa el lenguaje en la realidad de los contextos sociales, emerge de las ciencias sociales, aborda el lenguaje como un evento comunicativo dentro de un contexto social en donde se sitúan las interacciones humanas. (Urra, Muñoz y Peña, 2013) </li>
+<li>Una ideología es un conjunto de ideas fundamentales que caracteriza el pensamiento de una persona. (Definición.DE, 2019)</li>
+<li>Figura pública: La persona que posee notoriedad o trascendencia colectiva, sin ostentar un cargo público, y aquellas otras que alcanzan cierta publicidad por la actividad profesional que desarrollan o por difundir habitualmente hechos y acontecimientos de su vida privada. (Diccionario Jurídico, 2019) </li>
+<li>Es racismo es: una  teoría de superioridad de un grupo sobre otro grupo que pertenecen a diferentes razas o etnias. El racismo procura un orden jerárquico entre los grupos étnicos con el fin de justificar los privilegios y ventajas de las que usufructúa el grupo dominante. (Significados, 2019) </li>
+<li>La misoginia es: actitud y comportamiento de odio, repulsión y aversión por parte de un individuo hacia las mujeres. (Significados, 2019) </li>
+<li>La xenofobia es:hace referencia al odio, recelo, hostilidad y rechazo hacia los extranjeros. (Definición.DE, 2019) </li>
+<li>El capacitismo es: el sistema social, político y económico que discrimina a las personas discapacitadas por el hecho de serlo. (Lucha Contra El Capacitismo, 2018) </li>
+<li>El sexismo es una ideología en la que se hace distinción de las personas según su sexo, donde comúnmente el sexo opuesto es infravalorado y el otro es considerado superior. </li>
+<li>El machismo es el conjunto de actitudes y comportamientos que violentan injustamente la dignidad de la mujer en comparación con el varón. (Comisión Nacional para Prevenir y Erradicar la Violencia Contra las Mujeres, 2016) </li>
+<li>Homofobia es el término que se ha destinado para describir el rechazo, miedo, repudio, prejuicio o discriminación hacia mujeres u hombres que se reconocen a sí mismos como homosexuales. (Definición.DE, 2019) </li>
+<li>La queerfobia es el rechazo a la corriente que describe un pensamiento y una actitud vital que alienta a performar la libertad el género, los afectos y las sexualidades. Hoy en día, el término ha adquirido un contenido fuertemente político y está vinculado en general a la disidencia sexual. Además, odian el término  “queer”  que es utilizado por muchas personas que no sienten una coherencia entre su sexo y el género que asumen socialmente y tampoco se identifican con un determinado género, ni se orientan sexualmente de forma continua, sostenida o exclusiva, hacia un género socialmente considerado “opuesto”. </li>
+<li>La transfobia es el miedo, el odio, la falta de aceptación o la incomodidad frente a las personas transgénero, consideradas transgénero o cuya expresión de género no se ajusta a los roles de género tradicionales. La transfobia puede impedir que las personas transgénero y de género no conforme tengan vidas plenas a salvo de daños. </li>
+<li>Clasismo es el prejuicio y discriminación basados en la pertenencia o no a determinadas clases sociales. (Girondella Mora, 2017) </li>
+<li>La discriminación puede ser un fenómeno individual o colectivo, y puede tener diferentes causas. Algunas de ellas son: 
+<ol>
+<li> El miedo puede hacer que pueblos enteros se movilicen de forma discriminatoria en contra de algunas personas. </li>
+<li> La personalidad sumisa e imitativa puede provocar que algunas personas no dispongan de la suficiente capacidad crítica y simplemente se dejen llevar por otros. </li>
+<li> La influencia del grupo también hace que muchas personas vean como normales los comportamientos discriminatorios. </li>
+<li>La necesidad o el interés puede hacer que se manifiesten conductas discriminatorias hacia individuos o colectivos considerados como inferiores. (Corbin, 2019) </li>
+</ol> </li>
+<li>La discriminación por maternidad suele surgir en el entorno laboral, pues hace referencia a tratar a una mujer de manera diferente (ya sea empleada o demandante de trabajo) por la posibilidad de tener hijos. Existe una ley que prohíbe este tipo de conducta discriminatoria. </li>
+<li>La discriminación por motivos religiosos se da cuando un individuo o grupo de individuos reciben un trato injusto y desfavorable por no practicar o compartir las ideas religiosas de la sociedad en la que vive. </li>
+<li>La discriminación por motivos políticos sucede cuando individuo o grupo de individuos reciben un trato desfavorable por no compartir las ideas políticas con la sociedad en la que vive. Esto puede generar desde marginación social hasta represión. </li>
+	</ul>
+<h1> Flow of your chatbot </h1>
+
+
+
+<h1> Referencias </h1>
+
+<p> Comisión Nacional para Prevenir y Erradicar la Violencia Contra las Mujeres. (2016). ¿Sabes qué es el #Machismo?. Recuperado de <a href=”https://www.gob.mx/conavim/articulos/sabes-que-es-el-machismo?idiom=es”> https://www.gob.mx/conavim/articulos/sabes-que-es-el-machismo?idiom=es </a> </p>
+
+<p> Corbin, J.A. (2019). ​Los 16 tipos de discriminación (y sus causas). En Psicología y Mente. Recuperado de <a href=”https://psicologiaymente.com/social/tipos-de-discriminacion”> https://psicologiaymente.com/social/tipos-de-discriminacion </a> </p>
+
+<p> Definición de homofobia. (2019). En Definición.DE. Recuperado de <a href=”https://definicion.de/homofobia/”> https://definicion.de/homofobia/ </a> </p>
+
+<p> Definición de ideología. (2019). En Definición.DE.Recuperado de <a href=”https://definicion.de/ideologia/”> https://definicion.de/ideologia/  </a> </p>
+
+<p> Definición de xenofobia. (2019). En Definición.DE. Recuperado de <a href=”https://definicion.de/xenofobia/”> https://definicion.de/xenofobia/ </a> </p>
+
+<p> Figura pública. (2019). En Diccionario Jurídico. Recuperado de <a href=”http://www.diccionariojuridico.mx/definicion/figura-publica/”> http://www.diccionariojuridico.mx/definicion/figura-publica/ </a> </p>
+
+<p> Girondella Mora, L. (2017). ¿Qué es clasismo? Una definición. En ContraPeso. Recuperado de <a href=”http://contrapeso.info/2017/que-es-clasismo/”> http://contrapeso.info/2017/que-es-clasismo/ </a> </p> 
+
+<p>¿Qué es el capacitismo? ¿Qué lenguaje utilizamos? (2018). En Lucha Contra El Capacitismo. Recuperado de <a href=”https://luchacontraelcapacitismo.wordpress.com/2018/12/08/que-es-el-capacitismo-que-lenguaje-utilizamos/”> https://luchacontraelcapacitismo.wordpress.com/2018/12/08/que-es-el-capacitismo-que-lenguaje-utilizamos/ </a> </p>
+
+<p> Significado de misoginia. (2019). En Significados. Recuperado de <a href=”https://www.significados.com/misoginia/”> https://www.significados.com/misoginia/ </a> </p>
+
+<p> Significado de racismo. (2019). En Significados. Recuperado de <a href=”https://www.significados.com/racismo/”> https://www.significados.com/racismo/ </a> </p>
+
+<p>Urra, E.; Muñoz, A. & Peña, J. (2013). El análisis del discurso como perspectiva metodológica para investigadores de salud, Enfermería Universitaria, 10(2), pp. 50-57. Recuperado de <a href=”https://www.sciencedirect.com/science/article/pii/S1665706313726290”> https://www.sciencedirect.com/science/article/pii/S1665706313726290</a> </p>
+
+</body>
+</html>
